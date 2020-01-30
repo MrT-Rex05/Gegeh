@@ -96,26 +96,34 @@ exit
 ;;
 
 2) clear
+cd Tool
 sh 2.sh
 exit
 ;;
 
 3) clear
+cd Tool
 sh 3.sh
 exit
 ;;
 
 4) clear
+
+cd Tool
 sh 4.sh
 exit
 ;;
 
 5) clear
+cd Tool
+
 sh 5.sh
+
 exit
 ;;
 
 6) clear
+cd Tool
 sh 6.sh
 exit
 ;;
